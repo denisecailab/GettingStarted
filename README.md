@@ -1,6 +1,8 @@
 # Using iPython/Jupyter Notebook
 All of the code repositories on the CaiLab GitHub account contain interactive Python (iPython) files designed to be run within Jupyter Notebook.  For those who are unfamiliar with iPython/Jupyter Notebook, or who are unfamiliar with coding in general, have no fear!  All of the code was designed so that the user need not know anything about programming in order to run the code.  The most a user will need to do is provide the value of a variable (e.g. your expected cell diameter) or the name of a file.  Beyond this, you should be able to simply press play. That said, all code is provided and you are free to modify it as you see fit. Moreover, in accordance with our desire to keep science tools open, free, and collaborative, we welcome your comments and improvements on all code.
 
+Subscribe to our repositories to keep up to date on added features and corrections.
+
 ## Steps to get started
 1. [Download and install Miniconda/Conda](https://conda.io/miniconda.html).
 2. Create the necessary Conda environment.  Specific install instructions for creating the environment for a given repository are contained within each repository.  

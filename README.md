@@ -7,7 +7,7 @@ All of the code repositories on the CaiLab GitHub account contain interactive Py
 3. Download all files in the specified repository onto your computer.
 4. Activate the Conda environment from the command line terminal on your computer (command: `source activate EnvironmentName`).
 5. Launch Jupyter Notebook from the command line terminal on your computer (command: `jupyter notebook`).  We have included jupyter notebook installation in the conda environment installation.
-6. _From within Jupyter Notebook_, navigate to the iPython files and open them.  You can now run the code!  If you're new to Jupyter Notebook, you might check out some online tutorials.  There are tons.  [Here's one very simple one.](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
+6. __From within Jupyter Notebook__, navigate to the iPython files and open them.  You can now run the code!  If you're new to Jupyter Notebook, you might check out some online tutorials.  There are tons.  [Here's one very simple one.](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
 
 ### What is a Conda Environment?  
 Conda is a package and environment manager that provides a convenient way to utilize different versions of Python and Python packages for different applications, solving compatibility issues.  Conda allows one to create different ‘environments’ on your computer, each with different versions of Python and any other packages, which you can then flexibly activate to use different applications.  
